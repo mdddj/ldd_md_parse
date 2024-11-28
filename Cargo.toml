@@ -1,0 +1,8 @@
+[package]
+name = "ldd_md_parse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gumdrop = "0.8.1"
+markdown = "1.0.0-alpha.21"
