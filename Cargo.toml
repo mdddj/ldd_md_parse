@@ -2,6 +2,9 @@
 name = "ldd_md_parse"
 version = "0.1.0"
 edition = "2021"
+homepage = "https://github.com/mdddj/ldd_md_parse"
+license = "MIT"
+description = "markdow to html simple tool"
 
 [dependencies]
 gumdrop = "0.8.1"
